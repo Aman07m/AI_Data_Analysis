@@ -1,0 +1,8 @@
+flask
+flask-cors
+pandas
+matplotlib
+numpy
+python-dotenv
+groq
+gunicorn
